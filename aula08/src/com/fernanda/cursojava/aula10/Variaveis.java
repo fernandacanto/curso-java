@@ -6,6 +6,6 @@ public class Variaveis {
         String nome = "Fernanda";
 
         System.out.println("Nome " + nome);
-        System.out.println("Nome " + nome);
+        System.out.println("Idade " + idade);
     }
 }
